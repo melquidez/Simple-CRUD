@@ -1,0 +1,21 @@
+body{
+	background: #eeeded;
+}
+.navbar-custom{
+	background-color: #360500;
+}
+.navbar-custom a{
+	color: #fff3de;
+}
+.navbar-custom a:hover{
+	color: #000000;
+}
+.navbar-custom a:active{
+	color: #000000;
+}
+.navbar-custom a:focus{
+	color: #000000;
+}
+.panel-heading{
+	background: #360500!important;
+}
